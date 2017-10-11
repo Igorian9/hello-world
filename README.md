@@ -1,2 +1,2 @@
-# hello-world
-First repository
+# Hello world!
+Just a first repository.
